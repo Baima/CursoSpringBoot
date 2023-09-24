@@ -9,7 +9,6 @@ class VendasApplicationTests {
     @Test
     void contextLoads() {
         System.out.println('ola mundo');
-        assert 
     }
 
 }
